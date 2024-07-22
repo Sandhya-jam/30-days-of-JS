@@ -5,7 +5,7 @@ for(let i=1;i<=10;i++)
     console.log(i); //1 2 3 4 5 6 7 8 9 10
 }
 
-//Task-2:Peint Table 5
+//Task-2:Print Table 5
 let table=5;
 for(let j=1;j<=10;j++)
 {
