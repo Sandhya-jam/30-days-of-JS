@@ -69,4 +69,4 @@ console.log(B)   //[ [ 1, 2, 3 ], [ 4, 5, 6 ], [ 7, 8, 9 ] ]
 //Task-13:log specific element
 console.log(B[2][1])   //8
 console.log(B[1][1])   //5
-console.log(B[0][2])  //3
+console.log(B[2][2])   //9
