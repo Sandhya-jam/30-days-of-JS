@@ -7,7 +7,7 @@ class Node{
     }
 }
 
-//Task-2:
+//Task-2:linked lists
 class linkedlist{
     constructor()
     {
